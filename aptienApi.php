@@ -1,6 +1,6 @@
 <?php
 
-$url = 'https://adme.aptien.com/ws.wsdl';
+$url = 'https://{COMPANY}.aptien.com/ws.wsdl';
 $user = '{USER_MAIL}';
 $password = '{USER_PASSWORD}';
 
